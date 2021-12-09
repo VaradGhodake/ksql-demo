@@ -1,4 +1,4 @@
 # Installation and running
 
-Please check the instructions at: https://github.com/VaradGhodake/ksql-demo.git
+Please check the instructions at: https://varadghodake.github.io/TechStuff/ksqldb-experiments.html
 
