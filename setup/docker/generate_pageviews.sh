@@ -1,0 +1,1 @@
+docker run --network docker_default --rm --name datagen-pageviews     confluentinc/ksql-examples:5.4.0     ksql-datagen         bootstrap-server=kafka:39092         quickstart=pageviews         format=delimited         topic=pageviews         msgRate=1

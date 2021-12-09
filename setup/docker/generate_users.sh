@@ -1,0 +1,1 @@
+docker run --network docker_default --rm --name datagen-users     confluentinc/ksql-examples:5.4.0     ksql-datagen         bootstrap-server=kafka:39092         quickstart=users         format=delimited         topic=users         msgRate=1
